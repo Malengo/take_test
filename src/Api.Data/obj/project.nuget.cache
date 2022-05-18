@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8iiiKDOaILhsRiU+6nA1orEB3cFOX7WT01xvnL/oMCq7sjRiBMprZ7LufQrq4Vu/j7710gvp5rHT1iTRTtQ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Documents\\take_test\\src\\Api.Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\octokit\\0.51.0\\octokit.0.51.0.nupkg.sha512"
+  ],
+  "logs": []
+}
