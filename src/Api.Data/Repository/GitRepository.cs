@@ -14,7 +14,7 @@ namespace Api.Data.Repository
             {
                 List<GitEntity> git = new List<GitEntity>();
                 var github = new GitHubClient(new ProductHeaderValue("Malengo"));
-                var basicAuth = new Credentials("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"); // NOTE: not real credentials
+                var basicAuth = new Credentials("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"); // NOTE: not real credentials
                 github.Credentials = basicAuth;
                 var response = await github.Repository.GetAllForUser("takenet");
                 List<GitEntity> api = new List<GitEntity>();
